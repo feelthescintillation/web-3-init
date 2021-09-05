@@ -1,0 +1,17 @@
+{
+  "name": "web-3-init",
+  "version": "1.0.0",
+  "description": "Init with web3",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "github.com/feelthescintillation",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
